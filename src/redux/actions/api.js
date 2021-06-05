@@ -1,1 +1,1 @@
-export const host = "http://studionaach.in/";
+export const host = "https://studionaach.in/";
